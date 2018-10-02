@@ -1,2 +1,2 @@
 # AES
-Modelisation of AES algorithm in VHDM
+Modelisation of AES algorithm in VHDL
